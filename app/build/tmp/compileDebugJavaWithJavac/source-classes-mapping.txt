@@ -1,0 +1,32 @@
+com/dji/droneparking/databinding/BatteryViewBinding.java
+ com.dji.droneparking.databinding.BatteryViewBinding
+com/dji/droneparking/databinding/ListItemPhotoStitcherBinding.java
+ com.dji.droneparking.databinding.ListItemPhotoStitcherBinding
+com/dji/droneparking/databinding/RecyclerViewDialogBinding.java
+ com.dji.droneparking.databinding.RecyclerViewDialogBinding
+com/dji/droneparking/databinding/ListItemRecyclerViewDialogBinding.java
+ com.dji.droneparking.databinding.ListItemRecyclerViewDialogBinding
+com/dji/droneparking/databinding/FragmentConnectionBinding.java
+ com.dji.droneparking.databinding.FragmentConnectionBinding
+com/dji/droneparking/databinding/ActivityConnectionBinding.java
+ com.dji.droneparking.databinding.ActivityConnectionBinding
+com/dji/droneparking/tflite/YoloV5Classifier.java
+ com.dji.droneparking.tflite.YoloV5Classifier
+ com.dji.droneparking.tflite.YoloV5Classifier$1
+com/dji/droneparking/tflite/Classifier.java
+ com.dji.droneparking.tflite.Classifier
+ com.dji.droneparking.tflite.Classifier$Recognition
+com/dji/droneparking/databinding/LoadingDialogBinding.java
+ com.dji.droneparking.databinding.LoadingDialogBinding
+com/dji/droneparking/databinding/DownloadDialogBinding.java
+ com.dji.droneparking.databinding.DownloadDialogBinding
+com/dji/droneparking/databinding/ActivityFlightPlanMapboxBinding.java
+ com.dji.droneparking.databinding.ActivityFlightPlanMapboxBinding
+com/dji/droneparking/databinding/ActivityPhotoStitcherBinding.java
+ com.dji.droneparking.databinding.ActivityPhotoStitcherBinding
+com/dji/droneparking/BuildConfig.java
+ com.dji.droneparking.BuildConfig
+com/dji/droneparking/databinding/FragmentTutorialBinding.java
+ com.dji.droneparking.databinding.FragmentTutorialBinding
+com/dji/droneparking/environment/Utils.java
+ com.dji.droneparking.environment.Utils
