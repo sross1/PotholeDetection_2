@@ -1,0 +1,688 @@
+-- Merging decision tree log ---
+meta-data#com.dji.sdk.API_KEY
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:75:9-77:46
+	android:value
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:77:13-43
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:76:13-47
+manifest
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\sydne\.gradle\caches\transforms-3\163a10bf9e6d7fd7ca8f2ec42cd36270\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] C:\Users\sydne\.gradle\caches\transforms-3\f49870ed563879c3e6a0e794fee733d3\transformed\jetified-fragment-ktx-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\sydne\.gradle\caches\transforms-3\d3f0633ceba681423d748383fc0da0a1\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\7fe2eb3ac4697e673ec56184c2efc256\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\f7067c5d08d0b73cdfbc330c19a3170d\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\16bfebb174ed4a7f0ffcf25e76f8999a\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.dji:dji-uxsdk:4.15] C:\Users\sydne\.gradle\caches\transforms-3\424b0f5f873207bea0af008017d72371\transformed\jetified-dji-uxsdk-4.15\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\113878ef61ace299f92e76a8464f0cf7\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d07fd50a317ab93611c5cf607d90b6a2\transformed\jetified-play-services-places-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\fe14fdbec12c69cd31689bb85a542eb7\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\3c2a589ec49fc1b4fa2c06ebb5b9d70f\transformed\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\abeb306396da6f5729566a707e26eb0f\transformed\jetified-play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d30919909339be7ea26428214f56a92a\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5e96a3a848c186eb43140b311225f668\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:2:1-52:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.9.0] C:\Users\sydne\.gradle\caches\transforms-3\f806360ee7545e65438dc725551a0c2e\transformed\jetified-mapbox-android-plugin-annotation-v9-0.9.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\4d5bf998de579d0dca34139a8f1d15f0\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\sydne\.gradle\caches\transforms-3\cb9f8154e97fe0def4ec1b791925022c\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sydne\.gradle\caches\transforms-3\0c86809ff0f1da260690a3f28c93cd8b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\sydne\.gradle\caches\transforms-3\d2887ce98d5fe67903346887a5950fe2\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ncorti:slidetoact:0.9.0] C:\Users\sydne\.gradle\caches\transforms-3\880e1de105b4436f893aeb9d08a35f99\transformed\jetified-slidetoact-0.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\sydne\.gradle\caches\transforms-3\58906e0e92918b59a28bc99c1daeab1d\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\035e76efe1292fcc34ac069790bd0365\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0] C:\Users\sydne\.gradle\caches\transforms-3\2b041cdc464346efa4972387ba33e304\transformed\fragment-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\0e7f0a9a7b0d1bc7e9e3823e59f40fe1\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\1f6f08bca5885174257b7ca74a1e1ad7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\a3194e27c99f729869ce06f793e2c4e3\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\sydne\.gradle\caches\transforms-3\e93b2851241d6f9a0c62a8c2cac4a8ee\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\10717c2cdfcf856585185f8f75a6aa1e\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\f0dfdb877aa8fcc10d568e33d13759ee\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\a213e6053c844ba83311a1312ee368d2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\a4dca8b9a832a05063ebfce7df9295bb\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] C:\Users\sydne\.gradle\caches\transforms-3\3942a19556f3dc82d73059f5b016a799\transformed\jetified-mapbox-android-gestures-0.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] C:\Users\sydne\.gradle\caches\transforms-3\90893e2a2c52b62b0587c7270afa49ef\transformed\jetified-mapbox-android-accounts-0.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sydne\.gradle\caches\transforms-3\7536177e2cbaf6763fe74d2102df0ea3\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\sydne\.gradle\caches\transforms-3\66dd523f4fca89ae6b4d3f1c6f623b14\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\59f9be71f7c7b5a79625987415bab24f\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\92f2b6ee92fe1f268ab88880fd06914f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\be2895ef5b076c75c71989bf3eccf720\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sydne\.gradle\caches\transforms-3\bc0a00e717e3118aa140bdae7af98f6b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\6277bd081eb3959604e6c369a0aedcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\819bb72492ac2e4a0d7f2826d5fe8847\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\56f0e2b75d3e21b8998cec23c7ccfc3c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\945017819a600e1f05dbeaab2d4d10ac\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\daa7aa665bae904d11197b9a9123a6bc\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\4e54a7a27c2c8878242be153c62ade1f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\b9c3a8a38e070fc0fbf614ddd4f6f741\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\96c47c96b22a41b95e1dda9cc7143262\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\b266ab124adc05feec3ea54ab74d8122\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\f82342461654c3a6a0a8e6cb955d3768\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\8faae6069e04d62c18d2beeba2528923\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\e4585d64496cad90ec25e81551f0e5aa\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\87509f0dda33bc80f3c5f52274929492\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\6d8d6078bbda29cb78b44728ee9620b7\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\9ab01f87f71be8a4bff131ba13d32a78\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\f29923529c1b3f34f9f4b086e614371e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sydne\.gradle\caches\transforms-3\6e4c1ed70ff489c0e4e9fdfa05b228a5\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\1797bc33720ae090f21e706b46a56668\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\7261e5e41319df99b3b8564d77ec4860\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\aedf561094b00db0df4787f4dfded9c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\c56cc4dba31e5df52c6aaf0112a7fffe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\15620b3424b3f085c6a57fabccbb83f2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\154d75db687bd6ea34c42a0b78df5d92\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\76749fc6fca57a0c7ed5da727de9f67a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\c88896e2711d99e81bebea99c3a1bc81\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\914f9054afca545ff0d47f46932bbb46\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\3b251f640334b37e7112f1267013f7a1\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\4488c06be54f9daeecbd15a50549cd35\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\504ea59ecf778120b1c92dc911f0cb03\transformed\jetified-tensorflow-lite-task-vision-0.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\c108bd6037d2c39f6a031a24c3c53640\transformed\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\137ef645e09e59cdc121b76e0030f44b\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\433887252cc632d4cf4301529eb31783\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.dji:utmiss:1.2.1] C:\Users\sydne\.gradle\caches\transforms-3\cc6c451783c5d62ce0f82a1ac31b6747\transformed\jetified-utmiss-1.2.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.dji:library-networkrtk-helper:2.0.2] C:\Users\sydne\.gradle\caches\transforms-3\fa9e1765fe7f739361878c48207eff55\transformed\jetified-library-networkrtk-helper-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:5.0.0] C:\Users\sydne\.gradle\caches\transforms-3\9615df9c0b9035e92b6a37c8f5f075a9\transformed\jetified-mapbox-android-core-5.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\002995a527cd1d6d3e995bc1bb0cc60d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\3876b932e9a8b271fb4a03fd6a83de3f\transformed\jetified-tensorflow-lite-task-base-0.2.0\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:1-105:12
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:9:5-79
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:9:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:5.0.0] C:\Users\sydne\.gradle\caches\transforms-3\9615df9c0b9035e92b6a37c8f5f075a9\transformed\jetified-mapbox-android-core-5.0.0\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:5.0.0] C:\Users\sydne\.gradle\caches\transforms-3\9615df9c0b9035e92b6a37c8f5f075a9\transformed\jetified-mapbox-android-core-5.0.0\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:12:5-76
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:14:5-76
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:13:5-68
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:13:5-68
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:13:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:12:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:14:5-81
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:11:5-81
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:12:5-79
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:17:5-76
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:22:5-76
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:18:5-19:47
+	tools:ignore
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:20:5-21:37
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:10:5-81
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:10:5-81
+	android:maxSdkVersion
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:21:9-35
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:23:5-78
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:16:5-78
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:24:22-72
+uses-feature#android.hardware.camera
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:25:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:26:19-67
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:27:5-29:36
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:30:5-32:36
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:28:9-49
+uses-feature#android.hardware.usb.accessory
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:30:5-32:35
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:33:5-35:35
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:33:5-35:35
+	android:required
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:31:9-54
+application
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:34:5-103:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\16bfebb174ed4a7f0ffcf25e76f8999a\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\16bfebb174ed4a7f0ffcf25e76f8999a\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\113878ef61ace299f92e76a8464f0cf7\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\113878ef61ace299f92e76a8464f0cf7\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d07fd50a317ab93611c5cf607d90b6a2\transformed\jetified-play-services-places-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d07fd50a317ab93611c5cf607d90b6a2\transformed\jetified-play-services-places-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\fe14fdbec12c69cd31689bb85a542eb7\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\fe14fdbec12c69cd31689bb85a542eb7\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\3c2a589ec49fc1b4fa2c06ebb5b9d70f\transformed\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\3c2a589ec49fc1b4fa2c06ebb5b9d70f\transformed\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\abeb306396da6f5729566a707e26eb0f\transformed\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\abeb306396da6f5729566a707e26eb0f\transformed\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:37:5-50:19
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:37:5-50:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\4d5bf998de579d0dca34139a8f1d15f0\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\4d5bf998de579d0dca34139a8f1d15f0\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\sydne\.gradle\caches\transforms-3\cb9f8154e97fe0def4ec1b791925022c\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\sydne\.gradle\caches\transforms-3\cb9f8154e97fe0def4ec1b791925022c\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sydne\.gradle\caches\transforms-3\0c86809ff0f1da260690a3f28c93cd8b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sydne\.gradle\caches\transforms-3\0c86809ff0f1da260690a3f28c93cd8b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\sydne\.gradle\caches\transforms-3\d2887ce98d5fe67903346887a5950fe2\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\sydne\.gradle\caches\transforms-3\d2887ce98d5fe67903346887a5950fe2\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\a3194e27c99f729869ce06f793e2c4e3\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\a3194e27c99f729869ce06f793e2c4e3\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:20:5-34:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:20:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\f82342461654c3a6a0a8e6cb955d3768\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\f82342461654c3a6a0a8e6cb955d3768\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\914f9054afca545ff0d47f46932bbb46\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\914f9054afca545ff0d47f46932bbb46\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\3b251f640334b37e7112f1267013f7a1\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\3b251f640334b37e7112f1267013f7a1\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\137ef645e09e59cdc121b76e0030f44b\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\137ef645e09e59cdc121b76e0030f44b\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\433887252cc632d4cf4301529eb31783\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\433887252cc632d4cf4301529eb31783\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\3876b932e9a8b271fb4a03fd6a83de3f\transformed\jetified-tensorflow-lite-task-base-0.2.0\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\3876b932e9a8b271fb4a03fd6a83de3f\transformed\jetified-tensorflow-lite-task-base-0.2.0\AndroidManifest.xml:4:4-5:18
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\f82342461654c3a6a0a8e6cb955d3768\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:40:9-35
+	android:label
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:38:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:42:9-59
+	android:roundIcon
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:39:9-54
+	android:icon
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:37:9-43
+	android:allowBackup
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:41:9-49
+	android:usesCleartextTraffic
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:43:9-44
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:35:9-37
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:46:9-48:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\abeb306396da6f5729566a707e26eb0f\transformed\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\abeb306396da6f5729566a707e26eb0f\transformed\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:47:13-58
+activity#com.dji.droneparking.core.ConnectionActivity
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:50:9-68:20
+	android:screenOrientation
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:53:13-54
+	android:exported
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:54:13-36
+	android:configChanges
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:51:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:58:27-74
+intent-filter#action:name:android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:65:13-67:29
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:66:17-93
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:66:25-90
+uses-library#com.android.future.usb.accessory
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:70:9-73
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:70:23-70
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:71:9-73:40
+	android:required
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:72:13-50
+activity#com.dji.droneparking.core.FlightPlanActivity
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:79:9-90:20
+	android:screenOrientation
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:84:13-54
+	android:label
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:82:13-63
+	android:exported
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:86:13-36
+	android:configChanges
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:81:13-72
+	android:largeHeap
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:83:13-37
+	android:theme
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:85:13-63
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:80:13-52
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:87:13-89:29
+activity#com.dji.droneparking.core.PhotoStitcherActivity
+ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:92:9-102:20
+	android:screenOrientation
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:96:13-54
+	android:label
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:95:13-52
+	android:exported
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:98:13-36
+	android:configChanges
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:94:13-72
+	android:theme
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:97:13-54
+	android:name
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:93:13-55
+uses-sdk
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\sydne\.gradle\caches\transforms-3\163a10bf9e6d7fd7ca8f2ec42cd36270\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\sydne\.gradle\caches\transforms-3\163a10bf9e6d7fd7ca8f2ec42cd36270\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] C:\Users\sydne\.gradle\caches\transforms-3\f49870ed563879c3e6a0e794fee733d3\transformed\jetified-fragment-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] C:\Users\sydne\.gradle\caches\transforms-3\f49870ed563879c3e6a0e794fee733d3\transformed\jetified-fragment-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\sydne\.gradle\caches\transforms-3\d3f0633ceba681423d748383fc0da0a1\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\sydne\.gradle\caches\transforms-3\d3f0633ceba681423d748383fc0da0a1\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\7fe2eb3ac4697e673ec56184c2efc256\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\7fe2eb3ac4697e673ec56184c2efc256\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\f7067c5d08d0b73cdfbc330c19a3170d\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\f7067c5d08d0b73cdfbc330c19a3170d\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\16bfebb174ed4a7f0ffcf25e76f8999a\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\16bfebb174ed4a7f0ffcf25e76f8999a\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.dji:dji-uxsdk:4.15] C:\Users\sydne\.gradle\caches\transforms-3\424b0f5f873207bea0af008017d72371\transformed\jetified-dji-uxsdk-4.15\AndroidManifest.xml:7:5-9:41
+MERGED from [com.dji:dji-uxsdk:4.15] C:\Users\sydne\.gradle\caches\transforms-3\424b0f5f873207bea0af008017d72371\transformed\jetified-dji-uxsdk-4.15\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\113878ef61ace299f92e76a8464f0cf7\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\113878ef61ace299f92e76a8464f0cf7\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d07fd50a317ab93611c5cf607d90b6a2\transformed\jetified-play-services-places-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d07fd50a317ab93611c5cf607d90b6a2\transformed\jetified-play-services-places-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\fe14fdbec12c69cd31689bb85a542eb7\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\fe14fdbec12c69cd31689bb85a542eb7\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\3c2a589ec49fc1b4fa2c06ebb5b9d70f\transformed\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\3c2a589ec49fc1b4fa2c06ebb5b9d70f\transformed\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\abeb306396da6f5729566a707e26eb0f\transformed\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\abeb306396da6f5729566a707e26eb0f\transformed\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d30919909339be7ea26428214f56a92a\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\d30919909339be7ea26428214f56a92a\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5e96a3a848c186eb43140b311225f668\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5e96a3a848c186eb43140b311225f668\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.9.0] C:\Users\sydne\.gradle\caches\transforms-3\f806360ee7545e65438dc725551a0c2e\transformed\jetified-mapbox-android-plugin-annotation-v9-0.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.9.0] C:\Users\sydne\.gradle\caches\transforms-3\f806360ee7545e65438dc725551a0c2e\transformed\jetified-mapbox-android-plugin-annotation-v9-0.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\4d5bf998de579d0dca34139a8f1d15f0\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\4d5bf998de579d0dca34139a8f1d15f0\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\sydne\.gradle\caches\transforms-3\cb9f8154e97fe0def4ec1b791925022c\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\sydne\.gradle\caches\transforms-3\cb9f8154e97fe0def4ec1b791925022c\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sydne\.gradle\caches\transforms-3\0c86809ff0f1da260690a3f28c93cd8b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sydne\.gradle\caches\transforms-3\0c86809ff0f1da260690a3f28c93cd8b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\sydne\.gradle\caches\transforms-3\d2887ce98d5fe67903346887a5950fe2\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\sydne\.gradle\caches\transforms-3\d2887ce98d5fe67903346887a5950fe2\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.ncorti:slidetoact:0.9.0] C:\Users\sydne\.gradle\caches\transforms-3\880e1de105b4436f893aeb9d08a35f99\transformed\jetified-slidetoact-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ncorti:slidetoact:0.9.0] C:\Users\sydne\.gradle\caches\transforms-3\880e1de105b4436f893aeb9d08a35f99\transformed\jetified-slidetoact-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\sydne\.gradle\caches\transforms-3\58906e0e92918b59a28bc99c1daeab1d\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\sydne\.gradle\caches\transforms-3\58906e0e92918b59a28bc99c1daeab1d\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\035e76efe1292fcc34ac069790bd0365\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\035e76efe1292fcc34ac069790bd0365\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] C:\Users\sydne\.gradle\caches\transforms-3\2b041cdc464346efa4972387ba33e304\transformed\fragment-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] C:\Users\sydne\.gradle\caches\transforms-3\2b041cdc464346efa4972387ba33e304\transformed\fragment-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\0e7f0a9a7b0d1bc7e9e3823e59f40fe1\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\0e7f0a9a7b0d1bc7e9e3823e59f40fe1\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\1f6f08bca5885174257b7ca74a1e1ad7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\1f6f08bca5885174257b7ca74a1e1ad7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\a3194e27c99f729869ce06f793e2c4e3\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\sydne\.gradle\caches\transforms-3\a3194e27c99f729869ce06f793e2c4e3\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\sydne\.gradle\caches\transforms-3\e93b2851241d6f9a0c62a8c2cac4a8ee\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\sydne\.gradle\caches\transforms-3\e93b2851241d6f9a0c62a8c2cac4a8ee\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\10717c2cdfcf856585185f8f75a6aa1e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\10717c2cdfcf856585185f8f75a6aa1e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\f0dfdb877aa8fcc10d568e33d13759ee\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\f0dfdb877aa8fcc10d568e33d13759ee\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\a213e6053c844ba83311a1312ee368d2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\a213e6053c844ba83311a1312ee368d2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\a4dca8b9a832a05063ebfce7df9295bb\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\a4dca8b9a832a05063ebfce7df9295bb\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] C:\Users\sydne\.gradle\caches\transforms-3\3942a19556f3dc82d73059f5b016a799\transformed\jetified-mapbox-android-gestures-0.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] C:\Users\sydne\.gradle\caches\transforms-3\3942a19556f3dc82d73059f5b016a799\transformed\jetified-mapbox-android-gestures-0.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] C:\Users\sydne\.gradle\caches\transforms-3\90893e2a2c52b62b0587c7270afa49ef\transformed\jetified-mapbox-android-accounts-0.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] C:\Users\sydne\.gradle\caches\transforms-3\90893e2a2c52b62b0587c7270afa49ef\transformed\jetified-mapbox-android-accounts-0.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sydne\.gradle\caches\transforms-3\7536177e2cbaf6763fe74d2102df0ea3\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sydne\.gradle\caches\transforms-3\7536177e2cbaf6763fe74d2102df0ea3\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\sydne\.gradle\caches\transforms-3\66dd523f4fca89ae6b4d3f1c6f623b14\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\sydne\.gradle\caches\transforms-3\66dd523f4fca89ae6b4d3f1c6f623b14\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\59f9be71f7c7b5a79625987415bab24f\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\59f9be71f7c7b5a79625987415bab24f\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\92f2b6ee92fe1f268ab88880fd06914f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\92f2b6ee92fe1f268ab88880fd06914f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\be2895ef5b076c75c71989bf3eccf720\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\be2895ef5b076c75c71989bf3eccf720\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sydne\.gradle\caches\transforms-3\bc0a00e717e3118aa140bdae7af98f6b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sydne\.gradle\caches\transforms-3\bc0a00e717e3118aa140bdae7af98f6b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\6277bd081eb3959604e6c369a0aedcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\6277bd081eb3959604e6c369a0aedcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\819bb72492ac2e4a0d7f2826d5fe8847\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\819bb72492ac2e4a0d7f2826d5fe8847\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\56f0e2b75d3e21b8998cec23c7ccfc3c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\56f0e2b75d3e21b8998cec23c7ccfc3c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\945017819a600e1f05dbeaab2d4d10ac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\945017819a600e1f05dbeaab2d4d10ac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\daa7aa665bae904d11197b9a9123a6bc\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\daa7aa665bae904d11197b9a9123a6bc\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\4e54a7a27c2c8878242be153c62ade1f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\4e54a7a27c2c8878242be153c62ade1f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\b9c3a8a38e070fc0fbf614ddd4f6f741\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\b9c3a8a38e070fc0fbf614ddd4f6f741\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\96c47c96b22a41b95e1dda9cc7143262\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\96c47c96b22a41b95e1dda9cc7143262\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\b266ab124adc05feec3ea54ab74d8122\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\b266ab124adc05feec3ea54ab74d8122\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\f82342461654c3a6a0a8e6cb955d3768\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\f82342461654c3a6a0a8e6cb955d3768\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\8faae6069e04d62c18d2beeba2528923\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\8faae6069e04d62c18d2beeba2528923\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\e4585d64496cad90ec25e81551f0e5aa\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\e4585d64496cad90ec25e81551f0e5aa\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\87509f0dda33bc80f3c5f52274929492\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\87509f0dda33bc80f3c5f52274929492\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\6d8d6078bbda29cb78b44728ee9620b7\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\6d8d6078bbda29cb78b44728ee9620b7\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\9ab01f87f71be8a4bff131ba13d32a78\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\9ab01f87f71be8a4bff131ba13d32a78\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\f29923529c1b3f34f9f4b086e614371e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\f29923529c1b3f34f9f4b086e614371e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sydne\.gradle\caches\transforms-3\6e4c1ed70ff489c0e4e9fdfa05b228a5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sydne\.gradle\caches\transforms-3\6e4c1ed70ff489c0e4e9fdfa05b228a5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\1797bc33720ae090f21e706b46a56668\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\1797bc33720ae090f21e706b46a56668\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\7261e5e41319df99b3b8564d77ec4860\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\7261e5e41319df99b3b8564d77ec4860\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\aedf561094b00db0df4787f4dfded9c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sydne\.gradle\caches\transforms-3\aedf561094b00db0df4787f4dfded9c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\c56cc4dba31e5df52c6aaf0112a7fffe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\c56cc4dba31e5df52c6aaf0112a7fffe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\15620b3424b3f085c6a57fabccbb83f2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\15620b3424b3f085c6a57fabccbb83f2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\154d75db687bd6ea34c42a0b78df5d92\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\154d75db687bd6ea34c42a0b78df5d92\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\76749fc6fca57a0c7ed5da727de9f67a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\76749fc6fca57a0c7ed5da727de9f67a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\c88896e2711d99e81bebea99c3a1bc81\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\c88896e2711d99e81bebea99c3a1bc81\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\914f9054afca545ff0d47f46932bbb46\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sydne\.gradle\caches\transforms-3\914f9054afca545ff0d47f46932bbb46\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\3b251f640334b37e7112f1267013f7a1\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\3b251f640334b37e7112f1267013f7a1\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\4488c06be54f9daeecbd15a50549cd35\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\4488c06be54f9daeecbd15a50549cd35\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\504ea59ecf778120b1c92dc911f0cb03\transformed\jetified-tensorflow-lite-task-vision-0.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\504ea59ecf778120b1c92dc911f0cb03\transformed\jetified-tensorflow-lite-task-vision-0.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\c108bd6037d2c39f6a031a24c3c53640\transformed\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\sydne\.gradle\caches\transforms-3\c108bd6037d2c39f6a031a24c3c53640\transformed\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\137ef645e09e59cdc121b76e0030f44b\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\137ef645e09e59cdc121b76e0030f44b\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\433887252cc632d4cf4301529eb31783\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\sydne\.gradle\caches\transforms-3\433887252cc632d4cf4301529eb31783\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.dji:utmiss:1.2.1] C:\Users\sydne\.gradle\caches\transforms-3\cc6c451783c5d62ce0f82a1ac31b6747\transformed\jetified-utmiss-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.dji:utmiss:1.2.1] C:\Users\sydne\.gradle\caches\transforms-3\cc6c451783c5d62ce0f82a1ac31b6747\transformed\jetified-utmiss-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.dji:library-networkrtk-helper:2.0.2] C:\Users\sydne\.gradle\caches\transforms-3\fa9e1765fe7f739361878c48207eff55\transformed\jetified-library-networkrtk-helper-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.dji:library-networkrtk-helper:2.0.2] C:\Users\sydne\.gradle\caches\transforms-3\fa9e1765fe7f739361878c48207eff55\transformed\jetified-library-networkrtk-helper-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:5.0.0] C:\Users\sydne\.gradle\caches\transforms-3\9615df9c0b9035e92b6a37c8f5f075a9\transformed\jetified-mapbox-android-core-5.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:5.0.0] C:\Users\sydne\.gradle\caches\transforms-3\9615df9c0b9035e92b6a37c8f5f075a9\transformed\jetified-mapbox-android-core-5.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\002995a527cd1d6d3e995bc1bb0cc60d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sydne\.gradle\caches\transforms-3\002995a527cd1d6d3e995bc1bb0cc60d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:26:5-28:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:19:22-81
+service#dji.sdk.sdkmanager.DJIGlobalService
+ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:38:9-40:43
+	android:stopWithTask
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:40:13-40
+	android:name
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:39:13-63
+receiver#dji.logic.receiver.DJIPilotStartupReceiver
+ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:42:9-49:20
+	android:exported
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:43:13-70
+intent-filter#action:name:dji.go3.STARTUP+action:name:dji.go4.STARTUP
+ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:45:13-48:29
+action#dji.go3.STARTUP
+ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:46:17-58
+	android:name
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:46:25-55
+action#dji.go4.STARTUP
+ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:47:17-58
+	android:name
+		ADDED from [com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:47:25-55
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:12:5-14:36
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:12:5-14:36
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.2] C:\Users\sydne\.gradle\caches\transforms-3\f53828cab0d94043414f8012515ca634\transformed\jetified-mapbox-android-sdk-gl-core-5.2.2\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:13:9-45
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:16:5-18:38
+	android:maxSdkVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:18:9-35
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:17:9-52
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:21:9-25:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:23:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:24:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:22:13-93
+service#com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:27:9-30:72
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:29:13-37
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:28:13-93
+service#com.mapbox.android.telemetry.MapboxTelemetryService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:32:13-79
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\3b251f640334b37e7112f1267013f7a1\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\3b251f640334b37e7112f1267013f7a1\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
