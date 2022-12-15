@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\download_dialog.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\download_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_view_dialog.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\recycler_view_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_photo_stitcher.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\activity_photo_stitcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_photo_stitcher.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\list_item_photo_stitcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_connection.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\activity_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_flight_plan_mapbox.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\activity_flight_plan_mapbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_recycler_view_dialog.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\list_item_recycler_view_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\loading_dialog.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tutorial.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_connection.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\fragment_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\battery_view.xml",
+        "source": "C:\\Users\\sydne\\AndroidStudioProjects\\ParkingLotApp\\app\\src\\main\\res\\layout\\battery_view.xml"
+    }
+]
