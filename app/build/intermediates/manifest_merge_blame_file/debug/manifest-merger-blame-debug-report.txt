@@ -1,0 +1,325 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.riis.droneparking"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:8:5-68
+13-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:8:22-65
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+14-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:9:5-74
+14-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:9:22-71
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:10:5-66
+15-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:10:22-63
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:11:5-67
+16-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:12:5-76
+17-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:12:22-73
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:13:5-68
+18-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:13:22-65
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:14:5-81
+19-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:14:22-78
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:5-79
+20-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:6:22-76
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:16:5-79
+21-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:16:22-76
+22    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+22-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:17:5-76
+22-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:17:22-73
+23    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+23-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:18:5-19:47
+23-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:18:22-81
+24    <uses-permission
+24-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:20:5-21:37
+25        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+25-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:20:22-78
+26        android:maxSdkVersion="28" />
+26-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:21:9-35
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+27-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:22:5-80
+27-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:22:22-77
+28    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+28-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:23:5-78
+28-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:23:22-75
+29    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+29-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:24:5-75
+29-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:24:22-72
+30
+31    <uses-feature android:name="android.hardware.camera" />
+31-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:25:5-60
+31-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:25:19-57
+32    <uses-feature android:name="android.hardware.camera.autofocus" />
+32-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:26:5-70
+32-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:26:19-67
+33    <uses-feature
+33-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:27:5-29:36
+34        android:name="android.hardware.usb.host"
+34-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:28:9-49
+35        android:required="false" />
+35-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:29:9-33
+36    <uses-feature
+36-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:30:5-32:35
+37        android:name="android.hardware.usb.accessory"
+37-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:31:9-54
+38        android:required="true" />
+38-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:32:9-32
+39    <uses-feature
+39-->[com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:26:5-28:35
+40        android:glEsVersion="0x00020000"
+40-->[com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:27:9-41
+41        android:required="true" />
+41-->[com.google.android.gms:play-services-maps:16.0.0] C:\Users\sydne\.gradle\caches\transforms-3\8ca8bcbba7c304dd632d9b592c516f7a\transformed\jetified-play-services-maps-16.0.0\AndroidManifest.xml:28:9-32
+42
+43    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" /> <!-- video editor -->
+43-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:15:5-79
+43-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:15:22-76
+44    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+44-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:19:5-84
+44-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:19:22-81
+45
+46    <uses-feature
+46-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:12:5-14:36
+47        android:name="android.hardware.wifi"
+47-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:13:9-45
+48        android:required="false" />
+48-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] C:\Users\sydne\.gradle\caches\transforms-3\4d96e04eb912c97a0176bcd5fea17fc0\transformed\jetified-mapbox-android-sdk-9.6.2\AndroidManifest.xml:14:9-33
+49
+50    <uses-permission
+50-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:16:5-18:38
+51        android:name="android.permission.GET_TASKS"
+51-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:17:9-52
+52        android:maxSdkVersion="20" />
+52-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:18:9-35
+53
+54    <application
+54-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:34:5-103:19
+55        android:name="com.dji.droneparking.MApplication"
+55-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:35:9-37
+56        android:allowBackup="true"
+56-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:36:9-35
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->[androidx.core:core:1.7.0] C:\Users\sydne\.gradle\caches\transforms-3\f82342461654c3a6a0a8e6cb955d3768\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+58        android:debuggable="true"
+59        android:fullBackupContent="@xml/backup_descriptor"
+59-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:42:9-59
+60        android:icon="@mipmap/ic_launcher"
+60-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:37:9-43
+61        android:label="@string/app_name"
+61-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:38:9-41
+62        android:roundIcon="@mipmap/ic_launcher_round"
+62-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:39:9-54
+63        android:supportsRtl="true"
+63-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:40:9-35
+64        android:testOnly="true"
+65        android:theme="@style/splashScreenTheme"
+65-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:41:9-49
+66        android:usesCleartextTraffic="true" >
+66-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:43:9-44
+67        <meta-data
+67-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:46:9-48:69
+68            android:name="com.google.android.gms.version"
+68-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:47:13-58
+69            android:value="@integer/google_play_services_version" />
+69-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:48:13-66
+70
+71        <activity
+71-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:50:9-68:20
+72            android:name="com.dji.droneparking.core.ConnectionActivity"
+72-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:51:13-52
+73            android:configChanges="keyboard|keyboardHidden|orientation"
+73-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:52:13-72
+74            android:exported="true"
+74-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:54:13-36
+75            android:screenOrientation="userLandscape" >
+75-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:53:13-54
+76            <intent-filter>
+76-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:55:13-59:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:17-69
+77-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:58:17-77
+79-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:58:27-74
+80            </intent-filter>
+81            <intent-filter>
+81-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:55:13-59:29
+82                <action android:name="android.intent.action.MAIN" />
+82-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:17-69
+82-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:25-66
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:58:17-77
+84-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:58:27-74
+85            </intent-filter>
+86            <intent-filter>
+86-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:65:13-67:29
+87                <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" />
+87-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:66:17-93
+87-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:66:25-90
+88            </intent-filter>
+89        </activity>
+90
+91        <uses-library android:name="com.android.future.usb.accessory" />
+91-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:70:9-73
+91-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:70:23-70
+92        <uses-library
+92-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:71:9-73:40
+93            android:name="org.apache.http.legacy"
+93-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:72:13-50
+94            android:required="false" />
+94-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:73:13-37
+95
+96        <meta-data
+97            android:name="com.dji.sdk.API_KEY"
+97-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:76:13-47
+98            android:value="3687fd0da02f1c7de6fc996e" />
+98-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:77:13-43
+99
+100        <activity
+100-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:79:9-90:20
+101            android:name="com.dji.droneparking.core.FlightPlanActivity"
+101-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:80:13-52
+102            android:configChanges="keyboard|keyboardHidden|orientation"
+102-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:81:13-72
+103            android:exported="true"
+103-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:86:13-36
+104            android:label="@string/title_activity_flight_plan"
+104-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:82:13-63
+105            android:largeHeap="true"
+105-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:83:13-37
+106            android:screenOrientation="userLandscape"
+106-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:84:13-54
+107            android:theme="@style/Theme.AppCompat.NoActionBar" >
+107-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:85:13-63
+108            <intent-filter>
+108-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:87:13-89:29
+109                <action android:name="android.intent.action.MAIN" />
+109-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:17-69
+109-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:25-66
+110            </intent-filter>
+111        </activity>
+112        <activity
+112-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:92:9-102:20
+113            android:name="com.dji.droneparking.core.PhotoStitcherActivity"
+113-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:93:13-55
+114            android:configChanges="keyboard|keyboardHidden|orientation"
+114-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:94:13-72
+115            android:exported="true"
+115-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:98:13-36
+116            android:label="photo_stitcher_activity"
+116-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:95:13-52
+117            android:screenOrientation="userLandscape"
+117-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:96:13-54
+118            android:theme="@style/Theme.DroneParking" >
+118-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:97:13-54
+119            <intent-filter>
+119-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:87:13-89:29
+120                <action android:name="android.intent.action.MAIN" />
+120-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:17-69
+120-->C:\Users\sydne\AndroidStudioProjects\ParkingLotApp\app\src\main\AndroidManifest.xml:56:25-66
+121            </intent-filter>
+122        </activity>
+123        <activity
+123-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+124            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+124-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+125            android:exported="false"
+125-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+126            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+126-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sydne\.gradle\caches\transforms-3\5b2070428921af16b17e9fec84b2e7f9\transformed\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+127
+128        <service
+128-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:38:9-40:43
+129            android:name="dji.sdk.sdkmanager.DJIGlobalService"
+129-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:39:13-63
+130            android:stopWithTask="true" />
+130-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:40:13-40
+131
+132        <receiver
+132-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:42:9-49:20
+133            android:name="dji.logic.receiver.DJIPilotStartupReceiver"
+133-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:43:13-70
+134            android:exported="true" >
+134-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:44:13-36
+135            <intent-filter>
+135-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:45:13-48:29
+136                <action android:name="dji.go3.STARTUP" />
+136-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:46:17-58
+136-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:46:25-55
+137                <action android:name="dji.go4.STARTUP" />
+137-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:47:17-58
+137-->[com.dji:dji-sdk:4.16.1] C:\Users\sydne\.gradle\caches\transforms-3\70ca36b3607aa91f7d0da41f8d9f2235\transformed\jetified-dji-sdk-4.16.1\AndroidManifest.xml:47:25-55
+138            </intent-filter>
+139        </receiver>
+140
+141        <provider
+141-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:21:9-25:39
+142            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+142-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:22:13-93
+143            android:authorities="com.riis.droneparking.mapboxtelemetryinitprovider"
+143-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:23:13-79
+144            android:exported="false"
+144-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:24:13-37
+145            android:initOrder="100" />
+145-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:25:13-36
+146
+147        <service
+147-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:27:9-30:72
+148            android:name="com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService"
+148-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:28:13-93
+149            android:exported="false"
+149-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:29:13-37
+150            android:permission="android.permission.BIND_JOB_SERVICE" />
+150-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:30:13-69
+151        <service
+151-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:31:9-33:40
+152            android:name="com.mapbox.android.telemetry.MapboxTelemetryService"
+152-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:32:13-79
+153            android:exported="false" />
+153-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] C:\Users\sydne\.gradle\caches\transforms-3\01f5e50ac9f2bc73be9c5c7abe4ed3fa\transformed\jetified-mapbox-android-telemetry-okhttp3-8.1.0\AndroidManifest.xml:33:13-37
+154
+155        <provider
+155-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+156            android:name="androidx.startup.InitializationProvider"
+156-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+157            android:authorities="com.riis.droneparking.androidx-startup"
+157-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+158            android:exported="false" >
+158-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+159            <meta-data
+159-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+160                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+160-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+161                android:value="androidx.startup" />
+161-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sydne\.gradle\caches\transforms-3\6894bcbfbbf030213ab33c43c48e4487\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+162            <meta-data
+162-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+163                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+163-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+164                android:value="androidx.startup" />
+164-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sydne\.gradle\caches\transforms-3\e56eca6eb62a3e83ca0fa3987a1dfee2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+165        </provider>
+166    </application>
+167
+168</manifest>
